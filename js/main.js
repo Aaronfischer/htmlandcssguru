@@ -1,6 +1,6 @@
 (function($) {
 	$(document).ready(function() {
-		var message = "No peaking";
+		var message = "No peeking";
 		$(document).mousedown(function(event) {
 			switch (event.which) {
 				case 1:
